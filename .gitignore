@@ -1,0 +1,19 @@
+# Database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+.next/
+
+# Environment
+.env
+.env.local
+
+# Misc
+.DS_Store
+*.log
